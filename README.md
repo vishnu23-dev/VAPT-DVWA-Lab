@@ -41,8 +41,6 @@ Severity: High
 ### Reflected XSS
 Severity: Medium
 
-## Screenshots
-Screenshots are available in the screenshots folder.
 
 ## Disclaimer
 This project was conducted only in a local laboratory environment for educational purposes.
